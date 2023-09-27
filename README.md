@@ -22,7 +22,7 @@ If you're not sure how to run a local development server, or if you run into som
 
 ## Exercise 1: GuessInput
 
-First thing’s first: we need a way to submit guesses!
+First things first: we need a way to submit guesses!
 
 In the standard Wordle game, a global event listener registers keypresses. This isn't very accessible, and so we're going to do things a little bit differently.
 
